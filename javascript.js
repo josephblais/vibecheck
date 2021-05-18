@@ -64,7 +64,7 @@ btn.addEventListener("click", ()=>{
   
   if (clickCounter === 3) {
     loaderContainer.style.backgroundColor = 'red'
-    btn.value = "NOT A VIBE"
+    btn.value = "SORRY, NOT A VIBE"
     clickCounter++;
     return;
   }
