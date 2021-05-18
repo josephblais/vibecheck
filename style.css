@@ -18,6 +18,14 @@ body {
   cursor: pointer;
 }
 
+@media only screen and (max-width: 600px) {
+  #vibe-check {
+    font-size: 2rem;
+    height: auto
+  }
+
+}
+
 #loader-container {
   margin-top: 25vh;
   background-color: red;
