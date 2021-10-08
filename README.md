@@ -11,4 +11,4 @@ And here's a codepen in case you want to play around with it for whatever reason
 https://codepen.io/josephblais/pen/KKWMbEN
 
 
-![Vibe Check](https://raw.githubusercontent.com/josephblais/vibecheck/main/Vibe_check.png)
+![Vibe Check](https://raw.githubusercontent.com/josephblais/vibecheck/main/vibe_check.gif)
